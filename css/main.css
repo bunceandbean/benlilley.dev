@@ -1,0 +1,82 @@
+@font-face {
+  font-family: futura;
+  src: url("fonts/Futura Heavy font.ttf");
+}
+body{
+  font-family: futura;
+  background-size: cover;
+}
+a{
+  text-decoration:none;
+}
+.name{
+  font-size: 4vw;
+  width: 100%;
+ /* Firefox */
+ display: -moz-box;
+ -moz-box-pack: center;
+ -moz-box-align: center;
+ /* Safari and Chrome */
+ display: -webkit-box;
+ -webkit-box-pack: center;
+ -webkit-box-align: center;
+ /* W3C */
+ display: box;
+ box-pack: center;
+ box-align: center;
+ padding-top: 0vw;
+ padding-bottom: 0vw;
+ height: 1vw;
+}
+
+.checkIn, button{
+  font-style: italic;
+  /* Firefox */
+  display: -moz-box;
+  -moz-box-pack: center;
+  -moz-box-align: center;
+  /* Safari and Chrome */
+  display: -webkit-box;
+  -webkit-box-pack: center;
+  -webkit-box-align: center;
+  /* W3C */
+  display: box;
+  box-pack: center;
+  box-align: center;
+
+}
+
+.projects-container{
+  padding-top: 7vw;
+}
+.projects{
+  font-size: 1.25vw;
+  font-style: italic;
+  /* Firefox */
+  display: -moz-box;
+  -moz-box-pack: center;
+  -moz-box-align: center;
+  /* Safari and Chrome */
+  display: -webkit-box;
+  -webkit-box-pack: center;
+  -webkit-box-align: center;
+  /* W3C */
+  display: box;
+  box-pack: center;
+  box-align: center;
+
+}
+button {
+  font-family: futura;
+  background: none!important;
+  border: none;
+  padding: 0!important;
+  color: #069;
+  cursor: pointer;
+  font-size: 1.25vw;
+
+}
+
+#placeholder{
+  visibility: hidden;
+}
