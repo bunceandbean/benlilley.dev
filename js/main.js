@@ -18,3 +18,8 @@ function visible(content){
 //   _//    _// ~}
 
 //canis lupus, vulpes vulpes
+
+
+
+
+//They say all foxes are slightly allergic to linoleum, but it's cool to the paw - try it. They say my tail needs to be dry cleaned twice a month, but now it's fully detachable - see? They say our tree may never grow back, but one day, something will. Yes, these crackles are made of synthetic goose and these giblets come from artificial squab and even these apples look fake - but at least they've got stars on them. I guess my point is, we'll eat tonight, and we'll eat together. And even in this not particularly flattering light, you are without a doubt the five and a half most wonderful wild animals I've ever met in my life. So let's raise our boxes - to our survival.
