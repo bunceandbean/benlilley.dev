@@ -10,3 +10,11 @@ function visible(content){
   document.getElementById("placeholder").style.visibility = "visible";
   $("#placeholder").fadeIn();
 }
+
+
+//|\_/|,,_____,~~`
+//(.".)~~     )`~}}
+// \o/\ /---~\\ ~}}
+//   _//    _// ~}
+
+//canis lupus, vulpes vulpes
